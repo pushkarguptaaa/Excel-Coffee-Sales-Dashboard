@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard (Excel)
 
-![dashboard preview](assets/demo.gif)
+![dashboard preview](assets/dashboard_screenshot.png)
 
 **Overview**  
 Interactive Excel workbook demonstrating data joining (XLOOKUP / INDEX+MATCH), calculations, pivot tables, timeline, slicers, and a dashboard sheet. The workbook contains three data sheets (`orders`, `customers`, `products`) plus a production-ready `Dashboard` sheet.
